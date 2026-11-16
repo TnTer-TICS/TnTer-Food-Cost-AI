@@ -1,0 +1,6 @@
+{
+  "name": "TnTer Food Cost",
+  "description": "TnTer Food Cost AI – Restaurant Manager bởi TnTer Digital: Quản lý nhà hàng, định lượng công thức, tính Food Cost, tồn kho, doanh thu chi phí và trợ lý AI F&B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
